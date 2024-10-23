@@ -11,6 +11,7 @@ using namespace std::filesystem;
 int main()
 {
 
+	//https://www.sandordargo.com/blog/2024/02/28/std-filesystem-part1-paths-and-operations
 
 	filesystem::path directorypath = "mydirectory";
 
